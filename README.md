@@ -3,7 +3,7 @@
 
 Olá, eu sou o Ramon!👋
 
-- 🌱 I’m currently learning Javascrript
+- 🌱 I’m currently learning Python
 
 
 <div align="center">
