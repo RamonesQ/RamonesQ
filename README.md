@@ -1,9 +1,9 @@
 ### EM CONSTRUÇÃO!
 
 
-Olá 👋
+Olá, eu sou o Ramon!👋
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Javascrript
 
 
 <div align="center">
