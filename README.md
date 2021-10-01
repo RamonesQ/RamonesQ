@@ -3,7 +3,7 @@
 
 Olá, eu sou o Ramon!👋
 
-- 🌱 I’m currently learning Python
+- 🌱 Iniciando no mundo da programação! Atualmente estudando Python e Linguagens para desenvolvimento WEB
 
 
 <div align="center">
