@@ -1,10 +1,11 @@
 ### EM CONSTRUÇÃO!
 
 
-Olá, eu sou o Ramon!👋
+Olá, eu sou o Ramon e estou aprendendo a programar!
 
-- 🌱 Iniciando no mundo da programação! Atualmente estudando Python e Linguagens para desenvolvimento WEB
-
+- 🌱 Iniciando no mundo da programação! Atualmente estudando Python e Linguagens para desenvolvimento WEB.
+- 😄 Pronouns: Ele/Dele
+-  ⚡ Fun fact: Sou técnico em eletrônica e atualemente trabalho na area de QA para indústria farmacêutica.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
