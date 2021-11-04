@@ -1,6 +1,6 @@
 ### EM CONSTRUÇÃO!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamonesQ=Profile%20views&color=0e75b6&style=flat" alt="RamonesQ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonesqa&label=Profile%20views&color=0e75b6&style=flat" alt="ramonesq" /> </p>
 
 Olá, eu sou o Ramon e estou aprendendo a programar!
 
