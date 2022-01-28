@@ -1,10 +1,9 @@
-### EM CONSTRUÇÃO!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonesqa&label=Profile%20views&color=0e75b6&style=flat" alt="ramonesq" /> </p>
 
 Olá, eu sou o Ramon e estou aprendendo a programar!
 
-- 🌱 Iniciando no mundo da programação! Atualmente estudando Python e Linguagens para desenvolvimento WEB.
+- 🌱 Iniciando no mundo da programação! Atualmente estudando Linguagens para desenvolvimento WEB.
 - 😄 Pronouns: Ele/Dele
 -  ⚡ Fun fact: Sou técnico em eletrônica e atualemente trabalho na area de Instrumentação/Metrologia para indústria farmacêutica.
 -  :nerd_face: Estudante de Analise e desenvolvimento de sistemas
