@@ -3,11 +3,6 @@
 
 Olá, eu sou o Ramon e estou aprendendo a programar!
 
-- 🌱 Iniciando no mundo da programação! Atualmente estudando Linguagens para desenvolvimento WEB.
-- 😄 Pronouns: Ele/Dele
--  ⚡ Fun fact: Sou técnico em eletrônica e atualemente trabalho na area de Instrumentação/Metrologia para indústria farmacêutica.
--  :nerd_face: Estudante de Analise e desenvolvimento de sistemas
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
