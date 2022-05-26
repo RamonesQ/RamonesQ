@@ -1,7 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonesqa&label=Profile%20views&color=0e75b6&style=flat" alt="ramonesq" /> </p>
 
-Olá, eu sou o Ramon e estou aprendendo a programar!
+Olá, eu sou o Ramon.
+Desenvolvedor Back-end, em busca sempre das melhores soluções para diversos problemas. Atualmente desenvolvo em JavaScript/TypeSrcipt utilizando NodeJS e bancos de dados relacionais. 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
